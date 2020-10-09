@@ -1628,6 +1628,17 @@
         "CleanDESC": null
     },
     {
+        "CSID": "00000860",
+        "UtmX": "160950.382105306",
+        "UtmY": "2572594.48533066",
+        "ImgC": "<img class=img src=\"\/idms\/_upload\/casecontrol\/253878\/637378396010089092.jpg\"\/>",
+        "Addr": "臺南市北門區玉港里灰磘港129之4號",
+        "Site": "臺南市北門區玉港里灰磘港129之4號",
+        "WasteKind": "混合",
+        "CheckDate": "2020\/10\/09",
+        "CleanDESC": null
+    },
+    {
         "CSID": "00000861",
         "UtmX": "181893.290035043",
         "UtmY": "2564862.46373169",
@@ -1636,6 +1647,17 @@
         "Site": "臺南市官田區神農段996地號",
         "WasteKind": "混合",
         "CheckDate": "2020\/10\/08",
+        "CleanDESC": null
+    },
+    {
+        "CSID": "00000862",
+        "UtmX": "183462.435283741",
+        "UtmY": "2532603.14592565",
+        "ImgC": "<img class=img src=\"\/idms\/_upload\/casecontrol\/253878\/637378413702405762.jpg\"\/>",
+        "Addr": "臺南市關廟區龜洞段376-2地號",
+        "Site": "臺南市關廟區龜洞段376-2地號",
+        "WasteKind": "混合",
+        "CheckDate": "2020\/10\/09",
         "CleanDESC": null
     },
     {
