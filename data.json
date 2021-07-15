@@ -1510,7 +1510,7 @@
         "CSID": "00000831",
         "UtmX": "221319.762511265",
         "UtmY": "2647147.11658467",
-        "ImgC": "<img class=img src=\"\/idms\/_upload\/casecontrol\/253841\/637382825431490263.jpg\"\/>",
+        "ImgC": "-",
         "Addr": "南投縣南投市東山里軍功寮段34-20地號",
         "Site": "南投市東山里軍功寮段34-20地號",
         "WasteKind": "一般",
@@ -2371,7 +2371,7 @@
         "ImgC": "<img class=img src=\"\/idms\/_upload\/casecontrol\/253949\/637617937719417852.jpg\"\/>",
         "Addr": "屏東縣萬丹鄉",
         "Site": "屏東縣萬丹鄉社安段364地號廢塑膠棄置場址",
-        "WasteKind": null,
+        "WasteKind": "一般",
         "CheckDate": "2021\/07\/13",
         "CleanDESC": null
     }
